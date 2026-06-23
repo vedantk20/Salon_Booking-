@@ -1,4 +1,4 @@
-# GlamBook — Salon Booking System
+ salon Booking System
 ## React Frontend (Spring Boot + MySQL Backend)
 
 ---
